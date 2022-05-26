@@ -14,6 +14,7 @@
 
 <h1 align="center">Описание проекта</h1>
 
+
 <p>Данное приложение было реализовано, как итоговый проект для предмета Технологии Разработки Программных приложений (ТРПП)
 </p>
 
@@ -27,7 +28,6 @@
 </p>
 <h1 align="center">Зависимости проекта</h1>
 <p>dependencies {
-
     implementation 'androidx.appcompat:appcompat:1.4.1'
     implementation 'com.google.android.material:material:1.6.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
@@ -39,7 +39,6 @@
     implementation 'com.google.firebase:firebase-database:20.0.5'
     implementation 'com.github.bumptech.glide:glide:4.13.0'
     annotationProcessor 'com.github.bumptech.glide:compiler:4.13.0'
-}</p>
 
 <h1 align="center"> Итоги </h1>
 
