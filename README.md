@@ -17,21 +17,21 @@
 <p>Данное приложение было реализовано, как итоговый проект для предмета Технологии Разработки Программных приложений (ТРПП)
 </p>
 
-<p>Данное приложение представляет из себя тест, в котором заключено 10 вопросов. Вам предлагается ответить на них для того, чтобы определить ваш уровень знания английского языка. По мере прохождения задания становятся сложнее.</p>
+<p>Данное приложение представляет из себя тест, в котором заключено 10 вопросов. Вам предлагается ответить на них для того, чтобы определить ваш уровень знания английского языка.</p>
 
 <h1 align="center">Зависимости проекта</h1>
 <p>
-  implementation 'androidx.appcompat:appcompat:1.4.1'
-  implementation 'com.google.android.material:material:1.6.0'
-  implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
-  implementation 'androidx.navigation:navigation-fragment:2.4.2'
-  implementation 'androidx.legacy:legacy-support-v4:1.0.0'
-  testImplementation 'junit:junit:4.13.2'
-  androidTestImplementation 'androidx.test.ext:junit:1.1.3'
-  androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
-  implementation 'com.google.firebase:firebase-database:20.0.5'
-  implementation 'com.github.bumptech.glide:glide:4.13.0'
-  annotationProcessor 'com.github.bumptech.glide:compiler:4.13.0'
+    implementation 'androidx.appcompat:appcompat:1.4.1'
+    implementation 'com.google.android.material:material:1.6.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    implementation 'androidx.navigation:navigation-fragment:2.4.2'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.3'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
+    implementation 'com.google.firebase:firebase-database:20.0.5'
+    implementation 'com.github.bumptech.glide:glide:4.13.0'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.13.0'
 </p>  
 
 <h1 align="center"> Итоги </h1>
