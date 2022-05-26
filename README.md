@@ -21,6 +21,7 @@
 
 <h1 align="center">Зависимости проекта</h1>
 <p>
+
     implementation 'androidx.appcompat:appcompat:1.4.1'
     implementation 'com.google.android.material:material:1.6.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
