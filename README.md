@@ -14,14 +14,20 @@
 
 <h1 align="center">Описание проекта</h1>
 
-<p>Данное приложение было реализовано, как итоговый проект для предмета ТРПП. (Технология разработки программных приложений)
+
+<p>Данное приложение было реализовано, как итоговый проект для предмета Технологии Разработки Программных приложений (ТРПП)
 </p>
 
-<p>Данное приложение представляет из себя тест, в котором заключено 10 вопросов. Вам предлагается ответить на них для того, чтобы определить ваш уровень знания английского языка.</p>
+<p>Приложение представляет из себя тест, в котором заключено 10 вопросов. Вам предлагается ответить на них для того, чтобы определить ваш уровень знания английского языка. </p>
 
+<p align="center">
+<img src="images/1eng.png">
+</p>
+<p align="center">
+<img src="images/2eng.png">
+</p>
 <h1 align="center">Зависимости проекта</h1>
-<p>
-
+<p>dependencies {
     implementation 'androidx.appcompat:appcompat:1.4.1'
     implementation 'com.google.android.material:material:1.6.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
@@ -33,7 +39,6 @@
     implementation 'com.google.firebase:firebase-database:20.0.5'
     implementation 'com.github.bumptech.glide:glide:4.13.0'
     annotationProcessor 'com.github.bumptech.glide:compiler:4.13.0'
-</p>  
 
 <h1 align="center"> Итоги </h1>
 
